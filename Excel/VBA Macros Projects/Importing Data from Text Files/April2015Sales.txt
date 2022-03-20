@@ -1,0 +1,31 @@
+Year	Month	Type	Salesperson	Region	 Sales 	Units	Order #
+2015	April	Popsicles	Bishop	West	" 2,367.00 "	1578	355
+2015	April	Tasty Treats	Bishop	West	" 6,880.50 "	4587	356
+2015	April	Popsicles	Bishop	West	" 2,367.00 "	1578	357
+2015	April	Tasty Treats	Bishop	West	" 6,880.50 "	4587	358
+2015	April	Ice Cream	Lee	Central	" 11,838.00 "	7892	359
+2015	April	Popsicles	Lee	Central	" 2,367.00 "	1578	360
+2015	April	Ice Cream	Lee	Central	" 7,030.50 "	4687	361
+2015	April	Frozen Yogurt	Lee	Central	" 2,046.00 "	1364	362
+2015	April	Ice Cream	Lee	Central	" 11,838.00 "	7892	363
+2015	April	Popsicles	Lee	Central	" 2,367.00 "	1578	364
+2015	April	Ice Cream	Lee	Central	" 7,030.50 "	4687	365
+2015	April	Frozen Yogurt	Lee	Central	" 2,046.00 "	1364	366
+2015	April	Tasty Treats	Parker	North	" 8,793.00 "	5862	367
+2015	April	Tasty Treats	Parker	North	" 11,122.50 "	7415	368
+2015	April	Ice Cream	Parker	North	" 13,428.00 "	8952	369
+2015	April	Tasty Treats	Parker	North	" 14,619.00 "	9746	370
+2015	April	Popsicles	Parker	North	" 2,367.00 "	1578	371
+2015	April	Tasty Treats	Parker	North	" 8,793.00 "	5862	372
+2015	April	Tasty Treats	Parker	North	" 11,122.50 "	7415	373
+2015	April	Ice Cream	Parker	North	" 13,428.00 "	8952	374
+2015	April	Tasty Treats	Parker	North	" 14,619.00 "	9746	375
+2015	April	Popsicles	Parker	North	" 2,367.00 "	1578	376
+2015	April	Ice Cream	Pullen	South	" 11,838.00 "	7892	377
+2015	April	Ice Cream	Pullen	South	" 11,979.00 "	7986	378
+2015	April	Ice Cream	Pullen	South	" 11,838.00 "	7892	379
+2015	April	Ice Cream	Pullen	South	" 11,979.00 "	7986	380
+2015	April	Ice Cream	Watson	Central	" 7,030.50 "	4687	381
+2015	April	Frozen Yogurt	Watson	Central	" 2,046.00 "	1364	382
+2015	April	Ice Cream	Watson	Central	" 7,030.50 "	4687	383
+2015	April	Frozen Yogurt	Watson	Central	" 2,046.00 "	1364	384
