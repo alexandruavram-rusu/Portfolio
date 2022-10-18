@@ -5,7 +5,7 @@ I've used Looker in my position as Channal Data Analyst at VidaXL for the Channe
 This repository contains two practice dashboards and dashboard & files created using LookML (including a .txt file).
 
 ---
-## Certifications
+## Certifications & Courses
 
-[User & Analyst certification (via Udemy)]
-[LookML Developer certification (via Udemy)]
+* [User & Analyst certification (via Udemy)](https://github.com/alexandruavram-rusu/My-Data-Portfolio/blob/main/Google%20Looker/Looker%20-%20User%20%26%20Analyst%20certification.pdf)
+* [LookML Developer certification (via Udemy)](https://github.com/alexandruavram-rusu/My-Data-Portfolio/blob/main/Google%20Looker/Looker%20-%20LookML%20Developer%20certification.pdf)
