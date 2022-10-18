@@ -7,5 +7,5 @@ This repository contains two practice dashboards and dashboard & files created u
 ---
 ## Certifications & Courses
 
-* [User & Analyst certification (via Udemy)](https://github.com/alexandruavram-rusu/My-Data-Portfolio/blob/main/Google%20Looker/Looker%20-%20User%20%26%20Analyst%20certification.pdf)
-* [LookML Developer certification (via Udemy)](https://github.com/alexandruavram-rusu/My-Data-Portfolio/blob/main/Google%20Looker/Looker%20-%20LookML%20Developer%20certification.pdf)
+* [User & Analyst certification (via Udemy)](https://github.com/alexandruavram-rusu/My-Data-Portfolio/blob/main/Certifications/Looker%20-%20User%20%26%20Analyst%20certification.pdf)
+* [LookML Developer certification (via Udemy)](https://github.com/alexandruavram-rusu/My-Data-Portfolio/blob/main/Certifications/Looker%20-%20LookML%20Developer%20certification.pdf)
