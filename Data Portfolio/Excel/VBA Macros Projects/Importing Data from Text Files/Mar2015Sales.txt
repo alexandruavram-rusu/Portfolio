@@ -1,0 +1,21 @@
+Year	Month	Type	Salesperson	Region	 Sales 	Units	Order #
+2015	March	Tasty Treats	Bishop	West	" 14,619.00 "	9746	335
+2015	March	Ice Cream	Bishop	West	 867.00 	578	336
+2015	March	Tasty Treats	Bishop	West	" 14,619.00 "	9746	337
+2015	March	Ice Cream	Bishop	West	 867.00 	578	338
+2015	March	Tasty Treats	Lee	Central	" 14,619.00 "	9746	339
+2015	March	Ice Cream	Lee	Central	" 5,380.50 "	3587	340
+2015	March	Tasty Treats	Lee	Central	" 14,619.00 "	9746	341
+2015	March	Ice Cream	Lee	Central	" 5,380.50 "	3587	342
+2015	March	Tasty Treats	Parker	North	" 3,547.50 "	2365	343
+2015	March	Frozen Yogurt	Parker	North	" 14,596.50 "	9731	344
+2015	March	Tasty Treats	Parker	North	" 3,547.50 "	2365	345
+2015	March	Frozen Yogurt	Parker	North	" 14,596.50 "	9731	346
+2015	March	Frozen Yogurt	Pullen	South	" 1,498.50 "	999	347
+2015	March	Tasty Treats	Pullen	South	 235.50 	157	348
+2015	March	Frozen Yogurt	Pullen	South	" 1,498.50 "	999	349
+2015	March	Tasty Treats	Pullen	South	 235.50 	157	350
+2015	March	Ice Cream	Watson	Central	" 5,380.50 "	3587	351
+2015	March	Popsicles	Watson	Central	" 14,446.50 "	9631	352
+2015	March	Ice Cream	Watson	Central	" 5,380.50 "	3587	353
+2015	March	Popsicles	Watson	Central	" 14,446.50 "	9631	354
